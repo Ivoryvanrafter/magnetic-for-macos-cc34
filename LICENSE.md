@@ -1,4 +1,4 @@
-
+exclusive Utility for Magnetic for macOS - file-indexing and custom-actions offers the most advanced Magnetic for macOS utility, with file-indexing and custom-actions. Ideal for
 
 
 
